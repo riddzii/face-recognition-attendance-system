@@ -31,4 +31,4 @@ Example Libraries and Tools:
 face_recognition: For face recognition and encoding.
 OpenCV: For face detection and image processing.
 Tkinter or PyQt: For creating a user interface.
-SQLite or MySQL: For managing attendance records.
+SQLite or MySQL: For managing attendance records.
